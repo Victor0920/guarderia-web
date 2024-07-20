@@ -1,0 +1,1 @@
+<div>Prices Page</div>

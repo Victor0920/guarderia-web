@@ -1,0 +1,1 @@
+<div>Location page</div>
